@@ -1,0 +1,2 @@
+# faithful-exercises
+Practical exercises
